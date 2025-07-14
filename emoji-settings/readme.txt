@@ -3,7 +3,7 @@ Contributors: Cybr
 Donate link: https://github.com/sponsors/sybrew
 Tags: emoji, emojis, emoticon, script, twemoji
 Requires at least: 5.5
-Tested up to: 6.6
+Tested up to: 6.8
 Stable tag: 2.0.0
 Requires PHP: 7.2.0
 License: GPLv3
